@@ -1,0 +1,10 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.css);
+body {
+  background-color: #999999;
+  color: #ffffff; }
+
+.comingsoon-message {
+  padding-top: 20%;
+  text-align: center; }
+
+/*# sourceMappingURL=maps/app.css.map */
